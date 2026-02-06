@@ -39,6 +39,7 @@
     /* Custom tokens */
     --recording: 4 90% 58%;
     --recording-glow: 4 90% 65%;
+    --recording-foreground: 0 0% 100%;
     --success: 142 70% 45%;
     --surface: 220 20% 98%;
     --surface-elevated: 0 0% 100%;
@@ -85,6 +86,7 @@
     /* Custom tokens dark */
     --recording: 4 90% 58%;
     --recording-glow: 4 90% 65%;
+    --recording-foreground: 0 0% 100%;
     --success: 142 70% 50%;
     --surface: 220 25% 10%;
     --surface-elevated: 220 25% 14%;

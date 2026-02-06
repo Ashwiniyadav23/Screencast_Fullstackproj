@@ -52,6 +52,7 @@ export default {
         },
         recording: {
           DEFAULT: "hsl(var(--recording))",
+          foreground: "hsl(var(--recording-foreground))",
           glow: "hsl(var(--recording-glow))",
         },
         success: "hsl(var(--success))",
